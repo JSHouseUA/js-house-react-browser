@@ -1,0 +1,16 @@
+/node_modules
+/coverage
+/build
+
+.DS_Store
+.vscode
+.idea
+.cache
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+*.log
+*.map
+*~
