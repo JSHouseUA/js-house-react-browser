@@ -1,17 +1,7 @@
-# js-house-react-browser
-## Инициализация
+# Test template
+## USE: 
 ```bash
-git clone https://github.com/JSHouseUA/js-house-react-browser.git
-cd js-house-react-browser
 npm install
-npm start
+gulp
 ```
-## Линтинг
-Cтилистический анализ
-```bash
-npm run eslint
-```
-Автоматическое форматирование стиля
-```bash
-npm run eslint:fix
-```
+### If HTML output is incorrect - do any change in index.html
